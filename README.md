@@ -1,2 +1,2 @@
 # RGBD-SOD
-This are some methods for RGBD-SOD
+There are some methods for RGBD-SOD
